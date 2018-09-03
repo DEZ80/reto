@@ -12,4 +12,4 @@ PC: 4000
 
 # IMAGEN
 Si quieres, puedes subir un pantallazo y enlazarlo aquí.
-![Pantallazo](https://octodex.github.com/images/yaktocat.png)
+![Pantallazo](/pixelrojo.png)
